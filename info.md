@@ -1,8 +1,10 @@
 ---
 title: Info
 position: 6
-about-text: Vanessa Coyle is a stylist and creative consultant based in London. Currently
-  Fashion Director of Under The Influence magazine.
+about-text: Vanessa Coyle is a stylist, consultant and creative director based between London and Sydney.
+  The former Fashion Director of Under The Influence magazine and Senior Fashion Editor of Harpers Bazaar (UK), she has worked with international titles including 032c, Modern Weekly Style, British Vogue, Interview, Numero China, Vogue Ukraine, Harpers Bazaar (US), Rolling Stone, Exhibition.
+  Her clients include Stella McCartney, Jean Paul Gaultier, Givenchy, Emilio Pucci, Roger Vivier, Farfetch, Lane Crawford, L’Oreal, Maybelline, Omega, Pollini, Swarovski, Fashion East, Aries Arise, Adidas, and Levis and among others.
+  She has worked with personalities like Grimes, Florence And The Machine, St Vincent, Chaka Khan, Uma Thurman, Cate Blanchett, Scarlett Johannson, Gwenyth Paltrow, Kate Hudson, Emily Blunt, Lily James, Rita Ora, Jerry Hall, Victoria Beckham, Dasha Zhukova, Georgia May Jagger, Iris Law, and Adwoa Aboah.
 studio-text: "[+44 (0)78 7283 7416](tel:07872837416)  \n[info@vanessacoyle.com](mailto:info@vanessacoyle.com)
   \ \n[@vanessacoyle](https://www.instagram.com/vanessa_coyle/)  "
 representation-text: "[The Artist Group](http://www.artist-group.net)  \n[jo@artist-group.net](mailto:jo@artist-group.net)
