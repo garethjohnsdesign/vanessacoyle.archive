@@ -4,7 +4,7 @@
   <div class="shrink cell">
     <div class="grid-x grid-padding-x align-center">
     	<div class="shrink cell" data-aos="fade-up">
-    		
+
     		<ul class="vertical menu text-center">
         {% for entry in site.data.navigation %}
           {% if entry.url == current_page %}
@@ -14,6 +14,7 @@
           {% endif %}
           <li{{ current }}><a href="{{ site.baseurl }}{{ entry.url }}" data-toggle="toggle" data-toggler=".is-active">{{ entry.title }}</a></li>
           {% endfor %}
+          <li><a href="https://www.instagram.com/vanessa_coyle/">Instagram</a></li>
         </ul>
 
     	</div>
