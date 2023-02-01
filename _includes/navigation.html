@@ -1,5 +1,5 @@
 {% for entry in site.data.navigation %}{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}{% if fullurl == page.url %}{% assign current_page = fullurl %}{% break %}{% elsif page.url contains fullurl %}{% assign current_page = fullurl %}{% endif %}{% endfor %}
-<!-- Navigation -->  
+<!-- Navigation -->
 <div class="grid-x align-center">
   <div class="shrink cell show-for-medium">
     <nav>
@@ -24,6 +24,7 @@
       <li{{ current }}><a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a></li>
       {% endif %}
       {% endfor %}
+      <li><a href="https://www.instagram.com/vanessa_coyle/">Instagram</a></li>
     </ul>
     </nav>
   </div>
