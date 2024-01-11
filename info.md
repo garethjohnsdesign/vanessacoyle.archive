@@ -12,7 +12,7 @@ London [+44(0)7872837416](tel:07872837416)  \n
 [@vanessacoyle](https://www.instagram.com/vanessa_coyle/)"
 copyright: All artwork and photography are copyrighted and protected under international
   copyright laws. Artwork may not be reproduced in any form, stored, or manipulated
-  without prior written permission from Vanessa Coyle and the copyright holders.
+  without prior written permission from Vanessa Coyle and the copyright holders. Test
 layout: info
 ---
 
